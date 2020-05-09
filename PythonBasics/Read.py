@@ -1,7 +1,7 @@
 
 file = open("test.txt")
 
-# Read all content of the fie]le
+# Read all content of the file
 # print(file.read())
 # Read n number of characters by passing parameter
 #print(file.read(7))
