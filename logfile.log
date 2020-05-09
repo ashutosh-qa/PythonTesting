@@ -1,0 +1,6 @@
+2020-04-30 16:12:58,985 :INFO :PyTest.BaseClass :FirstName
+2020-04-30 16:12:58,986 :INFO :PyTest.BaseClass :LastName
+2020-04-30 16:12:59,016 :INFO :PyTest.test_logging :This is for Information statement
+2020-04-30 16:12:59,016 :WARNING :PyTest.test_logging :This is for warning statement
+2020-04-30 16:12:59,016 :ERROR :PyTest.test_logging :THis is to highlight major error
+2020-04-30 16:12:59,017 :CRITICAL :PyTest.test_logging :This is where TCs failing
